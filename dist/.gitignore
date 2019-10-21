@@ -5,5 +5,5 @@
 # Ignore File
 /credentials.py
 
-# Ignore Folder
-text/
+# Ignore txt files inside of Folder
+text/*.txt
